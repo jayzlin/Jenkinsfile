@@ -1,4 +1,4 @@
-ipeline {
+pipeline {
 
     agent {
         docker {	image 'apache2-18059906-image'
